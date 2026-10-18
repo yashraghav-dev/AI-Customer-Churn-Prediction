@@ -1,0 +1,19 @@
+Feature,Category,Customers,Churned,ChurnRate
+OnlineSecurity,No,3498,1461,41.76672384219554
+OnlineSecurity,No internet service,1526,113,7.404980340760157
+OnlineSecurity,Yes,2019,295,14.611193660227837
+OnlineBackup,No,3088,1233,39.92875647668394
+OnlineBackup,No internet service,1526,113,7.404980340760157
+OnlineBackup,Yes,2429,523,21.531494442157268
+DeviceProtection,No,3095,1211,39.127625201938606
+DeviceProtection,No internet service,1526,113,7.404980340760157
+DeviceProtection,Yes,2422,545,22.50206440957886
+TechSupport,No,3473,1446,41.63547365390153
+TechSupport,No internet service,1526,113,7.404980340760157
+TechSupport,Yes,2044,310,15.166340508806261
+StreamingTV,No,2810,942,33.52313167259787
+StreamingTV,No internet service,1526,113,7.404980340760157
+StreamingTV,Yes,2707,814,30.070188400443293
+StreamingMovies,No,2785,938,33.680430879712745
+StreamingMovies,No internet service,1526,113,7.404980340760157
+StreamingMovies,Yes,2732,818,29.941434846266475

@@ -1,0 +1,35 @@
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.key
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Python testing cache
+.pytest_cache/
+.mypy_cache/
+
+# Local backups
+*.bak
